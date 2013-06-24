@@ -27,6 +27,7 @@ end
 
 group :production do
   gem 'pg',                             :require => false
+  gem 'newrelic_rpm'
 end
 
 group :test do

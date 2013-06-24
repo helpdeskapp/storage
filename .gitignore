@@ -16,4 +16,5 @@
 /config/settings.yml
 /config/database.yml
 /config/deploy.yml
+/config/newrelic.yml
 /public/assets/

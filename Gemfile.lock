@@ -127,6 +127,7 @@ GEM
     net-ssh (2.6.6)
     net-ssh-gateway (1.2.0)
       net-ssh (>= 2.6.5)
+    newrelic_rpm (3.6.4.122)
     openteam-capistrano (0.0.12)
       capistrano-db-tasks
       capistrano-ext
@@ -237,6 +238,7 @@ DEPENDENCIES
   fabrication
   jquery-rails
   libarchive-ruby
+  newrelic_rpm
   openteam-capistrano
   pg
   rails
