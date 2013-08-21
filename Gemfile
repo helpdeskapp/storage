@@ -13,7 +13,6 @@ group :default do
   gem 'esp-commons'
   gem 'jquery-rails'
   gem 'rails',                          :require => false
-  gem 'libarchive-ruby',                :require => false
   gem 'russian'
 end
 
