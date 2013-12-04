@@ -12,7 +12,7 @@ group :default do
   gem 'dragonfly'
   gem 'esp-commons'
   gem 'jquery-rails'
-  gem 'rails',                          :require => false
+  gem 'rails',                          '~> 3.2.16', :require => false
   gem 'russian'
 end
 
